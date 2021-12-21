@@ -1,0 +1,11 @@
+# IDE files
+.vscode
+.idea
+.editorconfig
+
+# Environment variables
+.env
+
+# Dockerfiles
+Dockerfile
+docker-compose.yml
