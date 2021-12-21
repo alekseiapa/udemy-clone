@@ -7,6 +7,15 @@ function Sidebar() {
       <a href="#" className="logo bl">
         <img src={logo} className="bl" />
       </a>
+
+      <ul className="nav">
+        <li>
+          <a href="#">
+            <div className="ico icon-home" />
+            <h2 className="lbl">Home</h2>
+          </a>
+        </li>
+      </ul>
     </div>
   );
 }

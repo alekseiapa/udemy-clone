@@ -1,4 +1,6 @@
+import React from "react";
 // import logo from './logo.svg';
+import "./css/fonts/demo-files/uifont.css";
 import "./css/App.css";
 import "./css/props.css";
 
