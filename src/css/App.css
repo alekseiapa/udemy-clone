@@ -12,3 +12,30 @@
 .sidebar .logo img {
   height: 40px;
 }
+
+.sidebar .nav {
+  padding: 10px 35px;
+}
+
+.sidebar .nav ul {
+}
+
+.sidebar .nav li {
+}
+
+.sidebar .nav li a {
+  align-items: center;
+  padding: 0 20px;
+}
+
+.sidebar .nav li a .ico {
+  margin-right: 10px;
+}
+.sidebar .nav li a.lbl {
+}
+
+.sidebar .nav li a.on {
+  border-left: 2px #a434f0 solid;
+  color: #a434f0;
+  line-height: 1;
+}
